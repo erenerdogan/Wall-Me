@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-WallMe::Application.config.secret_key_base = '02dcf4ae354788cd64287d4be203c21cb4433f9d67a6bd0ff57d4732c6741fd14865b5857822d89187bea9cb0e56e18401a5aa30930c562a2e68e0c6b5ace0d0'
+WallMe::Application.config.secret_key_base = '8292586c426ed3d177d086db28c6c6a46e4b7ee9e1bc67fbf898615e9ab8d4c73b33254619db5e512d482e1f6736002581694c7f05e1ec98a1ec60f02b73efaa'
