@@ -11,7 +11,7 @@
 development:
   adapter: mysql2
   encoding: utf8
-  database: WallMe_development
+  database: atwame
   pool: 5
   username: root
   password: 147852
@@ -23,7 +23,7 @@ development:
 test:
   adapter: mysql2
   encoding: utf8
-  database: WallMe_test
+  database: atwame_test
   pool: 5
   username: root
   password:
@@ -32,7 +32,7 @@ test:
 production:
   adapter: mysql2
   encoding: utf8
-  database: WallMe_production
+  database: atwame_production
   pool: 5
   username: root
   password:

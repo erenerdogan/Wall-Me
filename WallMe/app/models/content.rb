@@ -5,4 +5,7 @@ class Content < ActiveRecord::Base
 	belongs_to :category
 
 	has_many :comments
+
+
+    #attr_accessor :title, :description
 end
